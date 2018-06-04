@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://jorjatt.com/index.html</loc>
+    <lastmod>2018-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jorjatt.com/images/290x201.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jorjatt.com/images/image.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jorjatt.com/images/img.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jorjatt.com/images/logo-etuj201x201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jorjatt.com/images/__camp___routiere__sal_2_415943953.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
