@@ -1,19 +1,19 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jorjatt.com" resolutions="1x" timestamp="1527823546080">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jorjatt.com" resolutions="1x" timestamp="1528232920633">
   <folder name="css">
     <file name="site_global.css" crc="4207308428"/>
-    <file name="index.css" crc="6931634" ref="index"/>
+    <file name="index.css" crc="318463965" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="3803043152" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="380897831" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="form_check.php" crc="147359589" ref="index"/>
     <file name="form_throttle.php" crc="93986428" ref="index"/>
     <file name="form_process.php" crc="3851993751" ref="index"/>
@@ -24,18 +24,7 @@
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="fb-banner.jpg" crc="4031211155" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bulb copy.png" crc="3800580697" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="display copy.png" crc="212715030" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="profile.jpg" crc="4286173897" ref="index">
+    <file name="logo-etuj.jpg" crc="102393622" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="290x201.gif" crc="505695176" seo="true" ref="index">
@@ -89,21 +78,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="image.jpg" crc="219836203" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img.jpg" crc="267279043" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo-etuj201x201.jpg" crc="4268556452" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="__camp___routiere__sal_2_415943953.jpg" crc="4161724628" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="1160x559.gif" crc="4089657969" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -165,13 +146,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo-etuj.jpg" crc="355747512" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="58x58.gif" crc="4248003014" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="482443144" seo="true" mt="1527823524235" redirect="true"/>
+  <file name="index.html" crc="527508880" seo="true" mt="1528231696330" redirect="true"/>
 </manifest>
