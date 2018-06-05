@@ -34,26 +34,26 @@ $form = array(
 		'custom_U783' => array(
 			'order' => 1,
 			'type' => 'string',
-			'label' => 'الإسم',
+			'label' => 'Name',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'الإسم\' is required.'
+				'required' => 'Field \'Name\' is required.'
 			)
 		),
 		'Email' => array(
 			'order' => 2,
 			'type' => 'email',
-			'label' => 'الأيميل',
+			'label' => 'Email',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'الأيميل\' is required.',
-				'format' => 'Field \'الأيميل\' has an invalid email.'
+				'required' => 'Field \'Email\' is required.',
+				'format' => 'Field \'Email\' has an invalid email.'
 			)
 		),
 		'custom_U796' => array(
 			'order' => 3,
 			'type' => 'string',
-			'label' => 'الرسال النصية',
+			'label' => 'Message',
 			'required' => false,
 			'errors' => array(
 			)
