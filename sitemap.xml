@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://etuj.com/index.html</loc>
-    <lastmod>2018-06-09</lastmod>
+    <lastmod>2018-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://etuj.com/images/logo-etuj.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://etuj.com/images/290x201.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://etuj.com/images/organigramme.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://etuj.com/images/logo-etujai.png</image:loc>
     </image:image>
   </url>
 </urlset>
