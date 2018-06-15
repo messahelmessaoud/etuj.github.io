@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etuj.com" resolutions="1x" timestamp="1529020206620">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etuj.com" resolutions="1x" timestamp="1529103066652">
   <folder name="css">
     <file name="site_global.css" crc="4207308428"/>
-    <file name="index.css" crc="68505781" ref="index"/>
+    <file name="index.css" crc="489018345" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -123,5 +123,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4063242968" seo="true" mt="1529020188117" redirect="true"/>
+  <file name="index.html" crc="3829897975" seo="true" mt="1529103057455" redirect="true"/>
 </manifest>
