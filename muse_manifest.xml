@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etuj.com" resolutions="1x" timestamp="1529147733783">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etuj.com" resolutions="1x" timestamp="1529154667154">
   <folder name="css">
     <file name="site_global.css" crc="237400824"/>
     <file name="index.css" crc="257442368" ref="index"/>
@@ -119,5 +119,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3758849970" seo="true" mt="1529147641617" redirect="true"/>
+  <file name="index.html" crc="3793597116" seo="true" mt="1529154645717" redirect="true"/>
 </manifest>
