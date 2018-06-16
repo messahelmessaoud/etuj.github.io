@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etuj.com" resolutions="1x" timestamp="1529103958845">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etuj.com" resolutions="1x" timestamp="1529147733783">
   <folder name="css">
-    <file name="site_global.css" crc="4207308428"/>
-    <file name="index.css" crc="3983810786" ref="index"/>
+    <file name="site_global.css" crc="237400824"/>
+    <file name="index.css" crc="257442368" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -87,10 +87,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="skype.png" crc="3961734618" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="organigramme.png" crc="4057270086" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -123,5 +119,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="108374619" seo="true" mt="1529103947926" redirect="true"/>
+  <file name="index.html" crc="3758849970" seo="true" mt="1529147641617" redirect="true"/>
 </manifest>
